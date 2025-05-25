@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Study/UE5/02_Niagara/UE5_Niagara_Study/NiagaraStudy/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Study/UE5/02_Niagara/UE5_Niagara_Study/NiagaraStudy/Content/Niagara/Collision/NS_Fountain.uasset"
+			]
+		}
+	]
+}
